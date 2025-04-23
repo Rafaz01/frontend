@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from './components/Header'
-import Search from './components/Search';
+import Header from './components/header'
+import Search from './components/search';
 
 const handleSearchSubmit = (e) => {
   e.preventDefault();
